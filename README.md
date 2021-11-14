@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img alt="RocketShoes" src="" width="500px"/>
+    <img alt="GoRestaurant" src="" width="500px"/>
 </h1>
 
 <br>
 
-## 👟 RocketShoes
+## 🍕 Go Restaurant
 
-O GoRestaurant é uma aplicação ficticia, que se trata de uma aplicação para restaurantes controlar quais refeições estão disponíveis e quais estão indisponíveis.
+O Go Restaurant é uma aplicação ficticia, que se trata de uma aplicação para restaurantes controlar quais refeições estão disponíveis e quais estão indisponíveis.
 
 
 Esta aplicação foi construida, durante o curso IGNITE da RocketSeat.
@@ -26,8 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git@github.com:luizsmatos/rocketshoes.git
-$ cd rocketshoes
+$ git clone git@github.com:luizsmatos/refactoring-classes-ts.git
+$ cd refactoring-classes-ts
 ```
 
 Para iniciá-lo, siga os passos abaixo:
