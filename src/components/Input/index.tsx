@@ -11,6 +11,7 @@ import { Container } from './styles';
 
 interface InputProps {
   name: string;
+  placeholder?: string;
   icon?: React.ComponentType<{ size: number }>;
 }
 
